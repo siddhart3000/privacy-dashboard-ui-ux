@@ -7,7 +7,7 @@ This project demonstrates strong interaction design, visual hierarchy, and a com
 
 # 🔗 **Live Prototype on Figma**
 
-👉 *(Insert your Figma link here)*
+👉 *(https://www.figma.com/proto/4QdGuQF85PwBI0xiWoZJDf/Untitled?node-id=3-124&t=KcQK2DfOsTeuEWCs-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A124)*
 
 ---
 
